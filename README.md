@@ -71,4 +71,4 @@ g++ -o pong main.cpp -lraylib
 
 ## Acknowledgments
 
-This project was created with reference to the tutorial video by [VeryHotShark](https://www.youtube.com/watch?v=VLJlTaFvHo4&list=PLwR6ZGPvjVOTIMqUXnqyWaIfQg0xdHNZn), which provided valuable insights into game development with Raylib.
+This project was created with reference to the tutorial video by [Programming With Nick](https://www.youtube.com/watch?v=VLJlTaFvHo4&list=PLwR6ZGPvjVOTIMqUXnqyWaIfQg0xdHNZn), which provided valuable insights into game development with Raylib.
